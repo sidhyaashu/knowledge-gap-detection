@@ -1,0 +1,6 @@
+README.md
+pyproject.toml
+src/nlpproject.egg-info/PKG-INFO
+src/nlpproject.egg-info/SOURCES.txt
+src/nlpproject.egg-info/dependency_links.txt
+src/nlpproject.egg-info/top_level.txt
